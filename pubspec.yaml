@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  custom_floating_action_button: ^0.0.3
 
 dev_dependencies:
   flutter_test:
